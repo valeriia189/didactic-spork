@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: blue;
+}
+
+a{
+    color: white;
+}
+
+footer{
+     background-color: blue;
+    text-decoration: none;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    margin: 5px;
+}
+
+main{
+    background-color: lightskyblue;
+}
+ 
+ nav{
+    padding: 20px;
+}
+nav a{
+    background-color: white;
+    text-decoration: none;
+    border-radius: 30px;
+    padding: 5px;
+    color: blue;
+    margin: 5px;
+}
+nav a:hover{
+    background-color: darkblue;
+    color: white;
+}
